@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{RXBc:function(e,t,n){"use strict";n.r(t);var i=n("q1tI"),a={color:"#232129",padding:"96px",fontFamily:"Courier, sans-serif, serif"},o={marginTop:0,marginBottom:64,maxWidth:320};t.default=function(){return i.createElement("main",{style:a},i.createElement("title",null,"Home Page"),i.createElement("h1",{style:o},"Alfio Brancozzi"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-44ff9cc9f1dd885461de.js.map
